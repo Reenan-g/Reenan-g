@@ -1,7 +1,10 @@
-## Hi there 👋
+## Olá, eu sou o Renan 👋
 
-Meu nome é Renan, tenho 18 anos. Estou aprendendo programação full stack. Atualmente estou desempregado, mas espero logo conseguir um emprego na área de programação e realizar meus sonhos com o fruto do meu trabalho.
+Estudante de Engenharia de Software, focado em desenvolvimento Front-End e explorando o caminho Full Stack.
 
-ja aprendi:
-.HTML
-.CSS
+- Trabalhando com **HTML, CSS e JavaScript**
+- Estudando desenvolvimento Full Stack
+- Em busca da minha primeira oportunidade como desenvolvedor
+- Aberto a colaborar em projetos e aprender com a comunidade
+
+📫 Contato: renangenovezlima@gmail.com | [LinkedIn](https://www.linkedin.com/in/renan-genovez-de-lima-6aa4bb3a9)
